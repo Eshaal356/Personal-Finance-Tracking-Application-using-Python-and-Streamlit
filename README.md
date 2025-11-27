@@ -37,3 +37,5 @@ A Python-based personal finance tracker built with **Streamlit**. This applicati
 - `test_core.py`: Unit tests for the core logic.
 
 ## Screenshot
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/000ec49f-7fdc-4f81-8ccc-e5b925574774" />
